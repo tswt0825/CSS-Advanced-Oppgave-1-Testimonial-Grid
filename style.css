@@ -120,6 +120,12 @@ body {
   opacity: 0.6;
 }
 
+#img-quotation {
+  background-image: url("images/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position-x: 80%;
+}
+
 /* ----- MEDIA QUERY ----- */
 /* Når skjermen er smalere enn 768px, vis alt under hverandre */
 @media (max-width: 768px) {
